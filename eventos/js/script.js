@@ -54,3 +54,4 @@ input.addEventListener("blur", (e) => {
     console.log("Saiu do input");
 });
 
+
